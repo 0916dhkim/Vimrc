@@ -9,6 +9,7 @@ hi CursorLine term=bold cterm=bold ctermbg=0*
 hi CursorColumn term=bold cterm=bold ctermbg=0*
 
 " Use file type plugins
+syntax on
 filetype plugin on
 filetype indent on
 
